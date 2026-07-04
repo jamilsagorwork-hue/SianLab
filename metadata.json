@@ -1,0 +1,6 @@
+{
+  "name": "SianLab.com - Premium Scientific Skincare",
+  "description": "An elegant, clinical-grade e-commerce storefront and admin control panel for SianLab, specializing in high-end skincare imported from China.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
